@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 9986987bb8f7c8740a8aa43bf51bc502
+timeCreated: 1436026550
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DoodleWalk_0
+    21300002: DoodleWalk_1
+    21300004: DoodleWalk_2
+    21300006: DoodleWalk_3
+    21300008: DoodleWalk_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DoodleWalk_0
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1555
+        width: 156
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DoodleWalk_1
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1558
+        width: 148
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DoodleWalk_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 960
+        width: 156
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DoodleWalk_3
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 958
+        width: 152
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DoodleWalk_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 361
+        width: 154
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
